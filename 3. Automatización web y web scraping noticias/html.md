@@ -56,3 +56,5 @@ Se abrirá la consola con el código html donde serán visibles los **tags**:
 * **tr** "table row", siempre dentro de una tabla y son las filas.
 * **ul** unordered lista, lista desordenada.
 * **iframe** permite colocar una página dentro de otra
+
+![image](https://user-images.githubusercontent.com/92232878/182268498-02e3a5bd-11e5-4717-b635-efc9fcd5c50d.png)
